@@ -1,0 +1,15 @@
+D:\Nikolay\C# ДЗ-Практика\Домашнее задание Урок 3\DZLesson3\DZ3.2\bin\Debug\net6.0\DZ3.2.exe
+D:\Nikolay\C# ДЗ-Практика\Домашнее задание Урок 3\DZLesson3\DZ3.2\bin\Debug\net6.0\DZ3.2.deps.json
+D:\Nikolay\C# ДЗ-Практика\Домашнее задание Урок 3\DZLesson3\DZ3.2\bin\Debug\net6.0\DZ3.2.runtimeconfig.json
+D:\Nikolay\C# ДЗ-Практика\Домашнее задание Урок 3\DZLesson3\DZ3.2\bin\Debug\net6.0\DZ3.2.dll
+D:\Nikolay\C# ДЗ-Практика\Домашнее задание Урок 3\DZLesson3\DZ3.2\bin\Debug\net6.0\DZ3.2.pdb
+D:\Nikolay\C# ДЗ-Практика\Домашнее задание Урок 3\DZLesson3\DZ3.2\obj\Debug\net6.0\DZ3.2.csproj.AssemblyReference.cache
+D:\Nikolay\C# ДЗ-Практика\Домашнее задание Урок 3\DZLesson3\DZ3.2\obj\Debug\net6.0\DZ3.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nikolay\C# ДЗ-Практика\Домашнее задание Урок 3\DZLesson3\DZ3.2\obj\Debug\net6.0\DZ3.2.AssemblyInfoInputs.cache
+D:\Nikolay\C# ДЗ-Практика\Домашнее задание Урок 3\DZLesson3\DZ3.2\obj\Debug\net6.0\DZ3.2.AssemblyInfo.cs
+D:\Nikolay\C# ДЗ-Практика\Домашнее задание Урок 3\DZLesson3\DZ3.2\obj\Debug\net6.0\DZ3.2.csproj.CoreCompileInputs.cache
+D:\Nikolay\C# ДЗ-Практика\Домашнее задание Урок 3\DZLesson3\DZ3.2\obj\Debug\net6.0\DZ3.2.dll
+D:\Nikolay\C# ДЗ-Практика\Домашнее задание Урок 3\DZLesson3\DZ3.2\obj\Debug\net6.0\refint\DZ3.2.dll
+D:\Nikolay\C# ДЗ-Практика\Домашнее задание Урок 3\DZLesson3\DZ3.2\obj\Debug\net6.0\DZ3.2.pdb
+D:\Nikolay\C# ДЗ-Практика\Домашнее задание Урок 3\DZLesson3\DZ3.2\obj\Debug\net6.0\DZ3.2.genruntimeconfig.cache
+D:\Nikolay\C# ДЗ-Практика\Домашнее задание Урок 3\DZLesson3\DZ3.2\obj\Debug\net6.0\ref\DZ3.2.dll
